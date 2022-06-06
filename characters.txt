@@ -4,3 +4,9 @@ Monkey
 
 Crocodile
 Crocodile's wife
+
+Dog
+Fox
+Tiger
+Lion
+Leopard
